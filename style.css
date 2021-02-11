@@ -17,7 +17,7 @@ body {
 main {
   width: auto;
   height: 1280px;
-  background-image: url(/bg.jpg);
+  background-image: url(bg.jpg);
   background-repeat: no-repeat;
   background-size: 2400px 1350px;
   background-position: 0% -200px;
@@ -289,27 +289,27 @@ section .projekt {
 
 .projekt .first {
   visibility: hidden;
-  background-image: url(/2.png);
+  background-image: url(2.png);
   background-size: cover;
   background-position: center;
   margin: auto 0;
 }
 
 .projekt .second {
-  background-image: url(/1.png);
+  background-image: url(1.png);
   background-size: cover;
   background-position: center;
   margin: auto 3rem auto 0;
 }
 
 .projekt .third {
-  background-image: url(/3.png);
+  background-image: url(3.png);
   background-size: cover;
   background-position: center;
 }
 
 .projekt .fourth {
-  background: url(/4.png);
+  background: url(4.png);
   background-size: cover;
   background-position: center;
 }
